@@ -15,29 +15,17 @@ Use your knowledge of object-oriented programming, data structures, and algorith
 - **Create a visualization** – Create an animation that portrays a personal interest or solves a problem that you choose using objects, data structures, and methods.
 - **Document your code** – Use comments to explain the purpose of the methods and code segments and note any preconditions and postconditions.
 
-## Trello Board
+## Trello Board 
 
-Link the Trello board that you used to plan this project here. 
-
-[My Trello planning board](https://link-url-here.org)
+[My Trello planning board](https://trello.com/invite/b/67d310dc63de36e4a463d8da/ATTI9b28a0295d071c2bfb00956b58a7ed9d8DD23C2A/unit-7-project-planning)
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](UMLdiagram.png)
 
 ## Video
 
-Record a short video of your project to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown code:
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](thumbnail.png)](https://youtu.be/q8QwbToXeAU)
 
 ## Project Description
 
