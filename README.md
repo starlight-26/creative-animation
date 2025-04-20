@@ -29,4 +29,4 @@ Use your knowledge of object-oriented programming, data structures, and algorith
 
 ## Project Description
 
-Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
+We decided to make an animation based on an online fashion store as we enjoyed online shopping. The user story we identified was an online shopper trying to visualize outfits online. It helped us to plan what we needed to do by giving us guidelines on what people would want to knoaw about each piece of clothing.
